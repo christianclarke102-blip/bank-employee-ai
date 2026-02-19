@@ -1,0 +1,8 @@
+pandas
+openpyxl
+pyarrow
+scikit-learn
+sentence-transformers
+faiss-cpu
+ollama
+streamlit

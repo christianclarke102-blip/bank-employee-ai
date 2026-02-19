@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local index files (optional)
+index/*.faiss
+index/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Mac system files
+.DS_Store
+
